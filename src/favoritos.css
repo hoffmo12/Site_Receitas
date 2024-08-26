@@ -78,7 +78,7 @@
 }
 
 .edit-button {
-  background-color: #22c56b; /* Laranja */
+  background-color: #22c56b; 
   color: white;
   border: none;
   border-radius: 4px;
@@ -90,7 +90,7 @@
 }
 
 .edit-button:hover {
-  background-color: #FF8C00; /* Laranja mais escuro */
+  background-color: #FF8C00; 
 }
 
 .center-button {
